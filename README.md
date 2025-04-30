@@ -1,6 +1,8 @@
 # Chinatown Wars Texture Pack
 High resolution texture pack for the PSP version of Grand Theft Auto: Chinatown Wars for PPSSPP.
+
 Uses some textures from the Android version, and some new textures.
+
 Works only on the European and American releases of the game. Japanese release is not supported.
 
 ## Install
